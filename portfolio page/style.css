@@ -1,0 +1,171 @@
+.nav-pills {
+    padding: 10px;
+    font-family: lobster;
+    font-size: 35px;
+    background-color: black;
+    opacity: 0.9;
+}
+body {
+    background-attachment: fixed;
+    background-image: url(https://images.unsplash.com/photo-1437419764061-2473afe69fc2?dpr=1&auto=format&fit=crop&w=1490&q=60&cs=tinysrgb)
+}
+#h1{
+    height:400px;
+    font-size: 100px;
+    color: rgb(4, 10, 5);
+    font-family: lobster;
+    position: relative;
+    top: 160px;
+    left: 200px;
+    margin-right: 700px;
+    margin-bottom: 300px;
+    padding-bottom: 400px;
+    
+    
+}
+.btnList{
+    position: relative;
+    left: 300px;
+    font-family: lobster;
+    
+}
+
+.image{
+    height: 250px;
+    weight: 300px;
+    position: relative;
+    left: 850px;
+    bottom: 350px;
+    border-radius: 30%;
+
+}
+
+
+#quote { 
+    
+    font-size: 50px;
+    color: rgb(242, 247, 243);
+    font-family: lobster;
+    position: relative;
+    left: 100px;
+    margin-right: 600px;
+}
+
+.header{
+    height: 800px;
+    background-attachment: fixed;
+    background-image: url(https://images.unsplash.com/photo-1505153695651-9366147105f3?dpr=1&auto=format&fit=crop&w=1350&h=&q=60&cs=tinysrgb&crop=)
+    
+}
+
+.bcd{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 105px;
+    text-decoration: underline;
+    text-align: center;
+    color: rgb(89, 58, 224)
+    
+
+}
+.abc{
+    font-family: lobster;
+    text-align: left;
+    height: 400px;
+    position: relative;
+    top: 110px;
+    left: 10px;
+    
+    color: white;
+    font-size: 50px;
+    
+}
+
+.photo{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 300px;
+    left: 850px;
+}
+
+.bottom{
+    background-attachment: fixed;
+    background-image: url(https://images.unsplash.com/photo-1464639351491-a172c2aa2911?dpr=1&auto=format&fit=crop&w=1534&q=60&cs=tinysrgb)
+    
+
+}
+
+.h22{
+    font-size: 40px;
+    color: white;
+    font-family: lobster;
+    position: relative;
+    left: 10px;
+}
+
+.contacts{
+    font-size: 40px;
+    color: white;
+    font-family: lobster;
+
+}
+
+.done{
+    font-size: 24px;
+    position: relative;
+    left: 10px;
+    font-family: lobster;
+    color: rgb(44, 148, 218)
+    
+    
+}
+.divi{
+    position: relative;
+    bottom: 189px;
+    left: 600px;
+}
+
+.skills {
+    font-family: lobster;
+    position: relative;
+    font-size: 45px;
+    color: rgb(12, 27, 54);
+    background-attachment: fixed;
+    background-image: url(https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?dpr=1&auto=format&fit=crop&w=1504&q=60&cs=tinysrgb)
+    
+
+}
+
+.head {
+    font-family: lobster;
+    color: rgb(10, 1, 1);
+    text-align: center;
+    font-size: 95px;
+}
+
+.para {
+    position: relative;
+    left: 17px;
+}
+
+.nuts{
+    height: 400px;
+    width: 400px;
+    border-radius: 30%;
+    border: solid 10px rgb(58, 55, 55);
+    position: relative;
+    left: 850px;
+    bottom: 500px;
+}
+
+
+
+
+
+
+
+
+     
+
+
